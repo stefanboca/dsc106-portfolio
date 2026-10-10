@@ -24,6 +24,11 @@ h6 {
   text-wrap: balance;
 }
 
+.home img {
+  max-width: 100%;
+  height: auto;
+}
+
 nav {
   display: flex;
   margin-bottom: 0.5em;
